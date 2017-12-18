@@ -3,3 +3,4 @@ encoding: "utf-8"
 gems:
   - jekyll-sitemap
   - jekyll-avatar
+  - jekyll-default-layout
