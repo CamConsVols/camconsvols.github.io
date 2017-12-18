@@ -3,7 +3,7 @@ title: Title from front matter
 ---
 # Foo
 
-{% avatar hubot %}
+{% avatar chris-ccv %}
 
 Foo
 Foo
