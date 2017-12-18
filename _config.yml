@@ -3,3 +3,4 @@ timezone: Europe/London
 encoding: "utf-8"
 gems:
   - jekyll-sitemap
+  - jekyll-avatar
