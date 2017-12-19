@@ -2,6 +2,7 @@ title: "Cambridge Conservation Volunteers"
 description: "Practical conservation work in and around Cambridge"
 timezone: "Europe/London"
 encoding: "utf-8"
+permalink: /:categories/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
   - jekyll-avatar

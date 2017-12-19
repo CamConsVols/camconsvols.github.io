@@ -1,7 +1,6 @@
 ---
 title: "Title from front matter"
 layout: cheese
-permalink: /:slug
 ---
 # Foo
 
