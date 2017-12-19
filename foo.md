@@ -1,5 +1,6 @@
 ---
-title: Title from front matter
+title: "Title from front matter"
+layout: cheese
 ---
 # Foo
 
