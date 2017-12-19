@@ -1,5 +1,6 @@
 ---
 title: Top page
+layout: cheese
 ---
 
 Over 50 years of conservation.
