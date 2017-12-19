@@ -8,6 +8,10 @@ layout: cheese
 
 {{ site.time }}
 
-{% for s in data.sites %}
+# Sites
+
+{% for s in site.data.sites %}
   {{ s.name }}
 {% endfor %}
+
+## end of sites
