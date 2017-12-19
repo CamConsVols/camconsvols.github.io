@@ -5,7 +5,6 @@ layout: cheese
 
 Over 50 years of conservation.
 
-
 ## Posts
 {% for p in site.posts %}
  * [{{ p.title }}]({{ p.url }})
