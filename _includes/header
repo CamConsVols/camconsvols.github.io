@@ -1,6 +1,9 @@
 <header>
 <div class="jumbotron">
-<img src="Pasque Flower small.jpeg">
+<figure class="figure">
+  <img src="Pasque Flower small.jpeg" class="figure-img img-fluid rounded" alt="Pasque Flower">
+  <figcaption class="figure-caption">Pasque Flower. County flower of Cambridgeshire.</figcaption>
+</figure>
  <h1> CCV <small>Cambridge Conservation Volunteers</small> </h1>
 </div>
 </header>
