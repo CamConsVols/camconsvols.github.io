@@ -7,7 +7,7 @@ layout: cheese
 
 <ul>
 {% for point in site.data.content.points %}
-  <li>{{ point }}</li>
+  <li>{{ point | xml_escape }}</li>
 {% endfor %}
 <ul>
 
